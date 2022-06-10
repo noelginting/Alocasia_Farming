@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aloicasia Farming</string>
+    <string name="n_home">Home</string>
+    <string name="n_history">History</string>
+    <string name="n_setting">Setting</string>
+    <string name="title_activity_coba">coba</string>
+    <string name="admin_tumbuhan">Tumbuhan</string>
+    <string name="admin_pupuk">Pupuk</string>
+    <string name="admin_penanaman">Penanaman</string>
+    <string name="history">History</string>
+    <string name="status">Status</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
